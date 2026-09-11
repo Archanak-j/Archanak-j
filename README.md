@@ -1,6 +1,6 @@
 # Hi 👋🏻, I'm Archana k
 
-🎓 BCA Graduate from Yuvaraja's College (Autonomous), Mysuru<br>💻 Aspiring Python Developer | AI & Machine Learning Enthusiast<br>🌱 Currently learning Python, Git, GitHub, Machine Learning, and AI.<br>📑 Check out my resume here [My Resume](https://drive.google.com/file/d/1QWbLXsdPH-0gTiMP0gE1I1m3AzcdDM24/view?usp=drivesdk)<br>📫 Reach out to me at [archanaacchu436@gmail.com](mailto:archanaacchu436@gmail.com)<br>
+🎓 BCA Graduate from Yuvaraja's College (Autonomous), Mysuru<br>💻 Aspiring Python Developer | AI & Machine Learning Enthusiast<br>🌱 Currently learning Python, Git, GitHub, Machine Learning, and AI.<br>📑 Check out my resume here [My Resume](https://drive.google.com/file/d/1bp0yrK8TtXFD22qKzJ10Pbo_t5hho5fO/view?usp=drivesdk)<br>📫 Reach out to me at [archanaacchu436@gmail.com](mailto:archanaacchu436@gmail.com)<br>
 
 
 # 💻 Tech Stack:
